@@ -1,4 +1,4 @@
-use mydb;
+use couponservice;
 
 create table product(
 id int AUTO_INCREMENT PRIMARY KEY,
